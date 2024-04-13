@@ -1,4 +1,4 @@
 # Agitate
 
 ## Contents:
-- [GitHub](github/github.md)
+- [GitHub](GitHub/GitHub.md)
