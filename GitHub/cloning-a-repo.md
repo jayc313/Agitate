@@ -15,5 +15,5 @@
 6. **Correcting Path**: If you need to move the cloned files to a different location after cloning, follow these steps:
     - Move the cloned files to the correct location on your computer.
     - Open GitHub Desktop and click on the repository.
-    - Click "Repository" in the menu bar, then select "Locate".
+    - Click "Locate".
     - Navigate to the new folder containing the cloned files and select it.
