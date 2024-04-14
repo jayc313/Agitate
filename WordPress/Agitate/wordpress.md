@@ -9,12 +9,10 @@
     <li><a href="https://github.com/WordPress/gutenberg/tree/trunk/packages/components/src">WordPress Components</a> - Gutenberg Components Reference</li>
     <li><a href="https://github.com/WordPress/gutenberg/tree/trunk/packages/block-library/src">WordPress Blocks</a> - Gutenberg Blocks Reference</li>
     <li><a href="https://www.wpbeginner.com/">WPBeginner</a> - Offers beginner-friendly tutorials, tips, and resources for WordPress users and developers.</li>
-    <li><a href="https://www.youtube.com/playlist?list=PLpcSpRrAaOarWm1D7YkOnL8vRJQPEi0fq">WordPress Beginner Tutorial Series</a> - YouTube playlist with step-by-step tutorials for beginners to learn WordPress.</li>
     <li><a href="https://www.wp101.com/">WP101</a> - Offers professionally-produced video tutorials for WordPress beginners and advanced users.</li>
     <li><a href="https://www.wpshout.com/">WPShout</a> - Provides WordPress tutorials, guides, and tips for developers and website owners.</li>
     <li><a href="https://wordpress.tv/">WordPress.tv</a> - Features a collection of WordCamp presentations and tutorials covering various WordPress topics.</li>
     <li><a href="https://www.wpbeginner.com/category/wp-tutorials/">WPBeginner Tutorials</a> - Offers a wide range of WordPress tutorials for beginners and advanced users.</li>
-    <li><a href="https://www.codecademy.com/learn/learn-wordpress">Codecademy WordPress Course</a> - Interactive learning platform offering a WordPress course for beginners.</li>
       <li><a href="https://github.com/wp-cli/handbook">WP-CLI Handbook</a> - Official handbook providing documentation and guides for WP-CLI commands and usage.</li>
 
 </ul>
