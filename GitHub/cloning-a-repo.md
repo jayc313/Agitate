@@ -17,3 +17,5 @@
     - Open GitHub Desktop and click on the repository.
     - Click "Locate".
     - Navigate to the new folder containing the cloned files and select it.
+    - 
+[Back](../GitHub/GitHub.md)
